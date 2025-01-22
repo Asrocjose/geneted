@@ -63,3 +63,25 @@ const data17012025_03 = {
   "fkib": "fkib75, fkib73, fkib09, fkib52, fkib34, fkib93, fkib51, fkib61, fkib01, fkib15",
   "dkps": "dkps35, dkps22, dkps40, dkps77, dkps33, dkps16, dkps20, dkps09, dkps96, dkps55"
 };
+
+const data17012025_04 = {
+  "qury": "qury19, qury86, qury13, qury81, qury27, qury41, qury50, qury22, qury28, qury38",
+  "bnwm": "bnwm46, bnwm20, bnwm98, bnwm60, bnwm66, bnwm17, bnwm26, bnwm13, bnwm48, bnwm76",
+  "swgp": "swgp39, swgp61, swgp88, swgp68, swgp40, swgp25, swgp76, swgp84, swgp12, swgp81",
+  "ciui": "ciui71, ciui75, ciui69, ciui85, ciui70, ciui34, ciui07, ciui41, ciui26, ciui40",
+  "juzm": "juzm83, juzm81, juzm09, juzm26, juzm13, juzm50, juzm80, juzm57, juzm74, juzm61",
+  "hpcy": "hpcy22, hpcy26, hpcy66, hpcy92, hpcy93, hpcy42, hpcy18, hpcy77, hpcy61, hpcy34",
+  "ewvy": "ewvy25, ewvy69, ewvy57, ewvy67, ewvy98, ewvy43, ewvy21, ewvy74, ewvy06, ewvy84",
+  "egwh": "egwh75, egwh18, egwh34, egwh42, egwh47, egwh15, egwh13, egwh43, egwh66, egwh25",
+  "bngb": "bngb91, bngb63, bngb27, bngb24, bngb71, bngb84, bngb81, bngb31, bngb10, bngb45",
+  "nahz": "nahz33, nahz45, nahz76, nahz28, nahz70, nahz13, nahz81, nahz39, nahz18, nahz79",
+  "vtcy": "vtcy31, vtcy09, vtcy58, vtcy22, vtcy04, vtcy53, vtcy17, vtcy95, vtcy38, vtcy42",
+  "kmmz": "kmmz97, kmmz41, kmmz59, kmmz53, kmmz22, kmmz78, kmmz36, kmmz58, kmmz93, kmmz96",
+  "syil": "syil42, syil64, syil87, syil39, syil21, syil32, syil06, syil76, syil29, syil30",
+  "jcme": "jcme03, jcme57, jcme18, jcme54, jcme99, jcme02, jcme89, jcme55, jcme87, jcme82",
+  "dnhm": "dnhm95, dnhm01, dnhm89, dnhm06, dnhm16, dnhm54, dnhm68, dnhm26, dnhm81, dnhm17",
+  "pslm": "pslm56, pslm30, pslm62, pslm45, pslm71, pslm04, pslm97, pslm52, pslm78, pslm49",
+  "tqzq": "tqzq73, tqzq52, tqzq90, tqzq25, tqzq76, tqzq01, tqzq21, tqzq35, tqzq58, tqzq10",
+  "qxes": "qxes74, qxes65, qxes28, qxes91, qxes07, qxes23, qxes53, qxes83, qxes56, qxes18",
+  "wskw": "wskw96, wskw67, wskw13, wskw80, wskw45, wskw27, wskw97, wskw32, wskw37, wskw16",
+}

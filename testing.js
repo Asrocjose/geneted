@@ -29,7 +29,7 @@ const data17012025_03 = {
   ✅"ttch": "ttch39, ttch12, ttch74, ttch60, ttch71, ttch38, ttch91, ttch07, ttch29, ttch86",
   ✅"zqfg": "zqfg65, zqfg22, zqfg56, zqfg13, zqfg03, zqfg15, zqfg61, zqfg69, zqfg86, zqfg50",
   ✅"pmmw": "pmmw01, pmmw74, pmmw90, pmmw42, pmmw41, pmmw54, pmmw49, pmmw15, pmmw94, pmmw24",
-  "jefh": "jefh46, jefh22, jefh38, jefh89, jefh18, jefh29, jefh27, jefh98, jefh80, jefh94",
+  ✅"jefh": "jefh46, jefh22, jefh38, jefh89, jefh18, jefh29, jefh27, jefh98, jefh80, jefh94",
   "orpy": "orpy12, orpy95, orpy75, orpy53, orpy87, orpy77, orpy04, orpy30, orpy91, orpy16",
   "jwvq": "jwvq30, jwvq48, jwvq10, jwvq54, jwvq43, jwvq19, jwvq02, jwvq79, jwvq29, jwvq06",
   "ldrx": "ldrx15, ldrx53, ldrx43, ldrx11, ldrx59, ldrx95, ldrx64, ldrx79, ldrx13, ldrx98",
